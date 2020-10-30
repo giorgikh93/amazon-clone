@@ -10,6 +10,7 @@
     background-color: white;
     margin: 10px;
     z-index: 1;
+    padding-bottom: 20px;
 }
 
 .product__price{
@@ -29,7 +30,9 @@
     max-height: 200px;
     object-fit: contain;
     margin-bottom: 15px;
+    margin-top: 20px;
 }
+
 
 .product > button{
     background-color: #f0c14b;
